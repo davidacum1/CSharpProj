@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\projects\CSharpProj\bin\Debug\net5.0\CSharpProj.exe
+C:\Users\Admin\Documents\projects\CSharpProj\bin\Debug\net5.0\CSharpProj.deps.json
+C:\Users\Admin\Documents\projects\CSharpProj\bin\Debug\net5.0\CSharpProj.runtimeconfig.json
+C:\Users\Admin\Documents\projects\CSharpProj\bin\Debug\net5.0\CSharpProj.runtimeconfig.dev.json
+C:\Users\Admin\Documents\projects\CSharpProj\bin\Debug\net5.0\CSharpProj.dll
+C:\Users\Admin\Documents\projects\CSharpProj\bin\Debug\net5.0\ref\CSharpProj.dll
+C:\Users\Admin\Documents\projects\CSharpProj\bin\Debug\net5.0\CSharpProj.pdb
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\CSharpProj.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\CSharpProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\CSharpProj.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\CSharpProj.AssemblyInfo.cs
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\CSharpProj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\CSharpProj.dll
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\ref\CSharpProj.dll
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\CSharpProj.pdb
+C:\Users\Admin\Documents\projects\CSharpProj\obj\Debug\net5.0\CSharpProj.genruntimeconfig.cache
