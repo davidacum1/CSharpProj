@@ -1,0 +1,7 @@
+CREATE database IF NOT EXISTS salesdatabase;
+
+
+USE salesdatabase;
+CREATE TABLE IF NOT EXISTS sales(saleID INT AUTO_INCREMENT PRIMARY KEY, productName VARCHAR(128) NOT NULL, quantity INT NOT NULL, price DECIMAL(6,2), saleDate DATETIME NOT NULL);
+
+DESCRIBE sales;

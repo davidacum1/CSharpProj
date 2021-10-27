@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CSharpProj.Utils;
+using MySql.Data.MySqlClient;
+using System;
 
 namespace CSharpProj
 {
@@ -6,8 +8,20 @@ namespace CSharpProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("featuee 1");
+            MySqlConnection connection = MySqlUtils.GetConnection();
+
+            connection.Open();
+
+            bool connectionOpen = connection.Ping();
+
+            MySqlUtils.RunSchema(Environment.CurrentDirectory + @"\Resources\Schema.sql", connection);
+
+            Console.WriteLine($@"\nConnection status: {connection.State}
+Ping successful: {connectionOpen}  
+DB Version: {connection.ServerVersion}
+Connection String: {connection.ConnectionString}");
+
+            connection.Dispose();
         }
     }
 }
